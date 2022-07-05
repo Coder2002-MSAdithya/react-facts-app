@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-facts-app/static/js/main.27fcf15f.js",
+    "index.html": "/react-facts-app/index.html",
+    "main.27fcf15f.js.map": "/react-facts-app/static/js/main.27fcf15f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27fcf15f.js"
+  ]
+}
